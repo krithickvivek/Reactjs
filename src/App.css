@@ -44,7 +44,7 @@ body {
 
 .hero {
     height: 100vh;
-    background: url("../public/Images/MainPic.jpg") ;
+    background: url("../public/Images/MainPic.jpg") no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
