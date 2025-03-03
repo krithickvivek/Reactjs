@@ -53,7 +53,7 @@ function App() {
                 </div>
             </div>
             <div className="about-image">
-                <img src="public/Images/LatestPic.jpg" alt="Krithick Vivek" />
+                <img src="/Images/LatestPic.jpg" alt="Krithick Vivek" />
                 <div className="social-links">
                     <a href="https://github.com/krithickvivek" target="_blank">🔗 GitHub</a>
                     <a href="https://www.linkedin.com/in/krithick-vivek-8934642b2/" target="_blank">🔗 LinkedIn</a>
@@ -175,10 +175,10 @@ function App() {
                     <p>www.krithickvivek.com</p>
                 </div>
                 <div className="socials">
-                    <img src="public/Images/insta.jpg" width="50px" alt="instagram-logo" />
-                    <img src="public/Images/whatsapp.jpg" width="50px" alt="whatsapp-logo" />
-                    <img src="public/Images/x.jpg" width="45px" alt="x-logo" />
-                    <img src="public/Images/pin.jpg" width="45px" alt="pinterest-logo" />
+                    <img src="/Images/insta.jpg" width="50px" alt="instagram-logo" />
+                    <img src="/Images/whatsapp.jpg" width="50px" alt="whatsapp-logo" />
+                    <img src="/Images/x.jpg" width="45px" alt="x-logo" />
+                    <img src="/Images/pin.jpg" width="45px" alt="pinterest-logo" />
                 </div>
             </div>
         </div>
