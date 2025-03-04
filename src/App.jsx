@@ -175,7 +175,7 @@ function App() {
                     <p>www.krithickvivek.com</p>
                 </div>
                 <div className="socials">
-                    <img src="./Images/insta.jpg" width="50px" alt="instagram-logo" />
+                    <img src="insta.jpg" width="50px" alt="instagram-logo" />
                     <img src="./Images/whatsapp.jpg" width="50px" alt="whatsapp-logo" />
                     <img src="./Images/x.jpg" width="45px" alt="x-logo" />
                     <img src="./Images/pin.jpg" width="45px" alt="pinterest-logo" />
